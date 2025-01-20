@@ -1,9 +1,6 @@
 import React from "react";
 import { Mic2} from "lucide-react";
 // import { CountdownTimer } from "./components/CountdownTimer";
-import { Features } from "./components/Features.tsx";
-import { NewsletterForm } from "./components/NewsletterForm";
-
 
 import "@rainbow-me/rainbowkit/styles.css";
 import { getDefaultConfig, RainbowKitProvider } from "@rainbow-me/rainbowkit";
